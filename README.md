@@ -20,5 +20,5 @@ A Reasonable Person
 
 # Personal Goals (2025):
 - 🏆 **Hall of Fame (HoF)** in Security Research  
-- 🛡️ ![CVE Progress](https://img.shields.io/badge/CVEs-3/50-blue?style=for-the-badge&logo=cve&logoColor=white)  
+- 🛡️ ![CVE Progress](https://img.shields.io/badge/CVEs-5/50-blue?style=for-the-badge&logo=cve&logoColor=white)  
 - 🎯 **OSCE³ Trifecta Completion**  
