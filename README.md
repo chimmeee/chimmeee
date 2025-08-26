@@ -17,6 +17,6 @@ A Reasonable Person.
 ![OSWE Certified](https://img.shields.io/badge/OSWE-Certified-darkred?style=for-the-badge&logo=offensive-security&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-# Personal Goals (2025):
+# Goals:
 - 🏆 **Hall of Fame (HoF)** in Security Research  
 - 🎯 **OSCE³ Trifecta Completion**  
