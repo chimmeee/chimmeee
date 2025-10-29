@@ -19,5 +19,5 @@ A Reasonable Person.
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 # Goals:
-- **Hall of Fame (HoF)** in Security Research  
+- **Hall of Fame (HoF)** and Security Researcher  
 - **OSCE³ Trifecta Completion**  
