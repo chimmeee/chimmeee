@@ -14,8 +14,8 @@ A Reasonable Person.
 
 # Certifications:
 ![OSCP Certified](https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&logo=offensive-security&logoColor=white)
-![OSWE Certified](https://img.shields.io/badge/OSWE-Certified-darkred?style=for-the-badge&logo=offensive-security&logoColor=white)
-![OSEP Certified](https://img.shields.io/badge/OSEP-Certified-darkred?style=for-the-badge&logo=offensive-security&logoColor=white)
+![OSWE Certified](https://img.shields.io/badge/OSWE-Certified-blue?style=for-the-badge&logo=offensive-security&logoColor=white)
+![OSEP Certified](https://img.shields.io/badge/OSEP-Certified-green?style=for-the-badge&logo=offensive-security&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 # Goals:
