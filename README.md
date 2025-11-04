@@ -19,5 +19,5 @@ A Reasonable Person.
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 # Goals:
-- **Security Researcher **
+- **Security Researcher**
 - **OSCE³ Trifecta Completion**  
