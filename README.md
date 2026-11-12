@@ -1,5 +1,5 @@
 # About Me
-cat memes enjoyer
+average cat memes enjoyer
 # Skill
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
