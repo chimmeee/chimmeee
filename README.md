@@ -18,4 +18,4 @@ cat memes enjoyer
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 # Goals:
-**OSCE³ Trifecta Completion**  
+can switch to anime girl profile pic somedays. 
